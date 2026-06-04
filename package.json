@@ -1,0 +1,36 @@
+{
+  "name": "exportkit",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "test:crawler": "tsx scripts/test-crawler.ts"
+  },
+  "dependencies": {
+    "@types/fs-extra": "^11.0.4",
+    "@types/node": "^20.19.0",
+    "@types/react": "^18.3.23",
+    "@types/react-dom": "^18.3.7",
+    "archiver": "^7.0.1",
+    "axios": "^1.12.0",
+    "cheerio": "^1.1.2",
+    "fs-extra": "^11.3.1",
+    "next": "^14.2.35",
+    "playwright": "^1.55.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/archiver": "^6.0.3",
+    "autoprefixer": "^10.4.21",
+    "eslint": "^8.57.1",
+    "eslint-config-next": "^14.2.35",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^3.4.17",
+    "tsx": "^4.20.5",
+    "typescript": "^5.9.2"
+  }
+}

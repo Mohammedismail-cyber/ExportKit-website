@@ -95,4 +95,4 @@ Replace `YOUR_USERNAME` and `YOUR_PRIVATE_REPO` with your GitHub username and pr
 
 ## Important Privacy Note
 
-Do not make the repository public if you want to keep the full project private. In GitHub, check the repository settings and confirm the visibility is set to **Private** before pushing or sharing the repository link.
+have fun with the project 😊🎉
